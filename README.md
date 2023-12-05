@@ -1,5 +1,5 @@
 # cisco_ewc
-A presence detection plugin for Cisco Embedded Wireless Controllers
+A presence detection plugin for Cisco Embedded Wireless Controllers and homeassistant
 
 ## Overview
 99% ripped from @fbradyirl's cisco_ios HA integration.  I changed a few lines to get the list of associated wireless clients and made modifications to select the proper fields.
